@@ -5,7 +5,7 @@ The website starts from "start.html" ,  which acts as the main entry point of th
 All other pages and functionalities are linked from this file.
 -To run the project locally:
 Clone the repository
-Open start.html in a web browser
+Open start.html in a web browser 
 Navigate through the platform using the provided UI
 - Demo
 Live Website: [Add deployed link here]
